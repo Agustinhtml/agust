@@ -63,7 +63,7 @@ body {
 }
 .footer {
   height: 300px;
-  background-color: #696969;
+  background-color: #fff;
   display: flex;
 }
 .footer-author {
